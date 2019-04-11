@@ -6,7 +6,7 @@ namespace cSharpLab
     {
         static void Main(string[] args)
         {
-            EventLogHelper.Example();
+            DateTimeToSQL.Run();
             Terminate();
         }
 

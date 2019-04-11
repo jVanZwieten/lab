@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CheckDigit.cs" />
+    <Compile Include="DateTimeToSQL.cs" />
     <Compile Include="EventLogHelper.cs" />
     <Compile Include="Luhn.cs" />
     <Compile Include="Program.cs" />
